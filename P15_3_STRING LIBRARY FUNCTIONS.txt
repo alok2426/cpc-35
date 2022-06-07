@@ -1,0 +1,22 @@
+#include<stdio.h>
+
+#include<string.h>
+
+int main ()
+
+{
+   
+   char arr[]="ALOK";
+   
+   int len1=strlen(arr);
+    
+   printf("string=%s\n length=%d \n",arr,len1);
+  
+   return 0;
+
+}
+
+OUTPUT
+
+string=ALOK
+length=4 
